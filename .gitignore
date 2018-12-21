@@ -1,0 +1,15 @@
+# Terraform
+
+
+example/terraform.tfstate
+example/terraform.tfstate.backup
+example/terraform.tfvars
+example/crash.log
+
+.terraform/
+account.json
+
+# Stuff
+
+.idea/*
+
